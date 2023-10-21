@@ -6,12 +6,9 @@ Due to my personal interest in applying modern technologies in daily work, I dec
 In this Repository you will see several folders, and each folder is about specefic topic. <br>
 It is better to introduce folders immediately without wasting time, SO....<br>
 # No.01 Import
-In this folder you only learn about how to import your satellite images and visulize it. there is nothing important about it and just a kickoff on remote sensing by Python :) here is some of the exampel about what you see and what you gonna do with your data:
+In this folder you only learn about how to import your satellite images and visulize it. there is nothing important about it and just a kickoff on remote sensing by Python :) here is some of the exampel about what you see and what you gonna do with your data<br>
 ![1692987905704](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5bf8c7bb-b126-4644-a60a-92792e02eb8b)
-![1692987909438](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c2b2f150-229d-4019-8df9-9750b20d9fb4)
-![1692929180911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/e90c5c72-6ff8-4334-8972-e53689875050)
-![1693010547208](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c1b3a994-0a06-4b4e-96d3-11034799acca)
-![1693015212622](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/9383f83a-9d89-449c-a10e-63dc100faac5)
+
 
 # No.02 Image Enhancement
 Image enhancement is the process of adjusting digital images so that the results are more suitable for display or further image analysis. For example, you can remove noise, sharpen, or brighten an image, making it easier to identify key features. In this repository I've tried different methods of Image enhancement (e.g. Gamma, Logarithm, Sigmoid function and etc.) that is available in scikit-image module on Python with Landsat 8 Images. The image below by using Gamma method.
@@ -31,9 +28,6 @@ An orthomosaic is a photogrammetrically orthorectified image product mosaicked f
 
 Herpes simplex virus 1 and 2, also known by their taxonomic names Human alphaherpesvirus 1 and Human alphaherpesvirus 2, are two members of the human Herpesviridae family, a set of viruses that produce viral infections in the majority of humans. Both HSV-1 and HSV-2 are very common and contagious.
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/0e79dad7-ae67-4e57-89eb-bde565428674)
-![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/799c36a9-73ac-4561-b30b-ad76bd5df271)
-![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/921ea5f1-033b-4a41-8b5c-c265670974bc)
-![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/4508a89a-1aea-453f-a749-63a2c9f820b4)
 
 # No.06 Spectral Profile
 A spectral profile consists of geometry to define the pixel selection and an image with key metadata from which to sample. To create a chart, right-click the layer you want analyze in the Contents pane, point to Create Chart, and click Spectral Profile to open the Chart Properties pane.
@@ -41,7 +35,7 @@ A spectral profile consists of geometry to define the pixel selection and an ima
 
 # No.07 Principal component analysis
 Principal component analysis, or PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed. in this image I use PCA on Landsat 8 satellite Images by using scikit-learn on Python.
-![1693350658617](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/84ba3d03-9cb7-46b0-b92d-8fcb9f2067c5)
+![PCA](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/8431b007-ff80-4a89-ab77-0668b140ac1b)
 
 # No.08 Spectral Indices
 Spectral indices are combinations of spectral reflectance from two or more wavelengths that indicate the relative abundance of features of interest. Vegetation indices are the most popular type, but other indices are available for burned areas, man-made (built-up) features, water, and geologic features.
