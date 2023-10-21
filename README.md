@@ -6,15 +6,30 @@ Due to my personal interest in applying modern technologies in daily work, I dec
 In this Repository you will see several folders, and each folder is about specefic topic. <br>
 It is better to introduce folders immediately without wasting time, SO....<br>
 # No.01 Import
+In this folder you only learn about how to import your satellite images and visulize it. there is nothing important about it and just a kickoff on remote sensing by Python :) here is some of the exampel about what you see and what you gonna do with your data:
+![1692987905704](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5bf8c7bb-b126-4644-a60a-92792e02eb8b)
+![1692987909438](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c2b2f150-229d-4019-8df9-9750b20d9fb4)
+![1692929180911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/e90c5c72-6ff8-4334-8972-e53689875050)
+![1693010547208](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c1b3a994-0a06-4b4e-96d3-11034799acca)
+![1693015212622](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/9383f83a-9d89-449c-a10e-63dc100faac5)
 
 # No.02 Image Enhancement
+Image enhancement is the process of adjusting digital images so that the results are more suitable for display or further image analysis. For example, you can remove noise, sharpen, or brighten an image, making it easier to identify key features. In this repository I've tried different methods of Image enhancement (e.g. Gamma, Logarithm, Sigmoid function and etc.) that is available in scikit-image module on Python with Landsat 8 Images. The image below by using Gamma method.
+![1693949810955](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/1fafe550-52a9-4cc3-94bf-ca77028794be)
 
 # No.03 Mask
+Here you can mask your images by considering shape file:
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/df4fa12f-951b-4367-ad01-ff6b9c0d0056)
 
 # No.04 Mosaic
+An orthomosaic is a photogrammetrically orthorectified image product mosaicked from an image collection, where the geometric distortion has been corrected and the imagery has been color balanced to produce a seamless mosaic dataset.
+
 ![IMG_9911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5463cdc0-c6a4-4fe0-9592-7f145a355122)
 
 # No.05 HSV
+Herpes simplex virus 1 and 2, also known by their taxonomic names Human alphaherpesvirus 1 and Human alphaherpesvirus 2, are two members of the human Herpesviridae family, a set of viruses that produce viral infections in the majority of humans. Both HSV-1 and HSV-2 are very common and contagious.
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/0e79dad7-ae67-4e57-89eb-bde565428674)
+
 # No.06 Spectral Profile
 # No.07 Principal component analysis
 Principal component analysis, or PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed. in this image I use PCA on Landsat 8 satellite Images by using scikit-learn on Python.
