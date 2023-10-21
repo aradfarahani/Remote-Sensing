@@ -18,7 +18,7 @@ Image enhancement is the process of adjusting digital images so that the results
 ![1693949810955](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/1fafe550-52a9-4cc3-94bf-ca77028794be)
 
 # No.03 Mask
-Here you can mask your images by considering shape file:
+Here you can mask your images by considering shape file:<br>
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/df4fa12f-951b-4367-ad01-ff6b9c0d0056)
 
 # No.04 Mosaic
@@ -54,6 +54,9 @@ k-means clustering is a method of vector quantization, originally from signal pr
 ![1693521262844](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/081c4408-c943-40a4-9e92-0e62da0dbc6c)
 
 # No.10 Filters
+Filtering is used to enhance the appearance of an image. Spatial filters are designed to highlight or suppress specific features in an image based on their spatial frequency.
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c74f9fd4-c85e-4ea5-87ac-214285aeff60)
+
 # No.11 Change Detection
 n statistical analysis, change detection or change point detection tries to identify times when the probability distribution of a stochastic process or time series changes. Today I decide to use to Change Vector Analysis (CVA) methods (Such as Change Direction and Change Magnitude) on my data with Python.
 ![1693698661388](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b832b9f4-beda-49f8-8e00-0ed9eee5986a)
