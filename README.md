@@ -34,6 +34,8 @@ A spectral profile consists of geometry to define the pixel selection and an ima
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c57c2b56-5d5e-4710-b68a-4ff2df6706c1)
 
 # No.07 Principal component analysis
+![GaussianScatterPCA svg](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/6a340eec-8aca-4e0b-803a-5e055cea461e)
+
 Principal component analysis, or PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed. in this image I use PCA on Landsat 8 satellite Images by using scikit-learn on Python.
 ![PCA](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/8431b007-ff80-4a89-ab77-0668b140ac1b)
 
@@ -43,6 +45,7 @@ Spectral indices are combinations of spectral reflectance from two or more wavel
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/4f02aa2d-1858-4e98-bd9a-c1ba0bc84d6c)
 
 # No.09 Clustring
+![images](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/aa90b2b9-e1b3-4bc9-b466-40d0d7bca855)
 
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. In this Image I tried k-means method with 4 clusters on my landsat8 Images.
 ![1693521262844](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/081c4408-c943-40a4-9e92-0e62da0dbc6c)
@@ -64,6 +67,8 @@ Gray-Level Co-Occurrence Matrix, or GLCM is a second-order statistical texture a
 
 
 # No.13 Support Vector Machine
+![SVM_margin](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/8e12978b-595e-48f2-8e78-0aa5ce68a32f)
+
 In machine learning, support vector machines (e.g. SVM) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
 
 ![1693865889169](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/f9efad77-e97c-4b7a-988f-a5d09fdd8cc1)
