@@ -42,6 +42,8 @@ Principal component analysis, or PCA, is a statistical procedure that allows you
 ![PCA](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/8431b007-ff80-4a89-ab77-0668b140ac1b)
 
 # No.08 Spectral Indices
+![Spectral-Indices-Equations](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/55672a57-e062-4334-b4d1-9b9e4a5f74a6)
+
 Spectral indices are combinations of spectral reflectance from two or more wavelengths that indicate the relative abundance of features of interest. Vegetation indices are the most popular type, but other indices are available for burned areas, man-made (built-up) features, water, and geologic features.
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b7d15128-1666-4187-8bb3-27c60d3a9ddc)
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/4f02aa2d-1858-4e98-bd9a-c1ba0bc84d6c)
