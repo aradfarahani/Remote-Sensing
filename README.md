@@ -5,7 +5,14 @@ Remote sensing is the acquisition of information about an object or phenomenon w
 Due to my personal interest in applying modern technologies in daily work, I decided to create this repository for the remote sensing repository<br>
 In this Repository you will see several folders, and each folder is about specefic topic. <br>
 It is better to introduce folders immediately without wasting time, SO....<br>
-# No. 1 Import 
+# No.01 Import
+
+# No.02 Image Enhancement
+
+# No.03 Mask
+
+# No.04 Mosaic
+![IMG_9911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5463cdc0-c6a4-4fe0-9592-7f145a355122)
 
 <br>Enjoy ;)<br> <a
     id="cy-effective-orcid-url"
