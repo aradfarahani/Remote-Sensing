@@ -53,9 +53,10 @@ Time Series Analysis is a way of studying the characteristics of the response va
 ![1695579963833](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/ab1484d2-b6ce-4670-874b-380650ee99e1)
 
 # No.15 Convolutional Neural Network
+![Screenshot (3305)](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3fbb9995-fd2a-40b9-83c6-f0e84cdd570d)
 
 Convolutional Neural Network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. Hear I used my CNN model for lithology classification on my Sentinel-2 satellite image and my Ground truth data.
-![Screenshot (3305)](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3fbb9995-fd2a-40b9-83c6-f0e84cdd570d)
+
 
 
 ![1697726601196](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/119d1620-b6a1-401c-ad62-ba6091ac32c9)
