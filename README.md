@@ -91,8 +91,6 @@ Time Series Analysis is a way of studying the characteristics of the response va
 
 Convolutional Neural Network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. Hear I used my CNN model for lithology classification on my Sentinel-2 satellite image and my Ground truth data. and for the validation part you can use ROC curve and Confusion Martix. A receiver operating characteristic curve, or ROC curve, is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied. The ROC curve is the plot of the true positive rate against the false positive rate, at various threshold settings. A Confusion matrix is an N x N matrix used for evaluating the performance of a classification model, where N is the number of target classes. The matrix compares the actual target values with those predicted by the machine learning model.
 
-
-
 ![1697726601196](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/119d1620-b6a1-401c-ad62-ba6091ac32c9)
 
 ![1697726597312](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3afd885e-9667-4020-a0d8-6e80e94cb468)
@@ -101,7 +99,8 @@ Convolutional Neural Network (CNN) is a regularized type of feed-forward neural 
 ![cm](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/91215c38-e801-4e0f-ae9f-8ee20fc79b06)
 ![r2](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/16b7d92f-c767-41ca-b6d4-5541b58a6b13)
 ![r1](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/77ccb008-bc76-4333-94ef-16b30afca191)
-
+# License
+Remote-Sensing is licensed under the [MIT License](https://github.com/aradfarahani/Remote-Sensing/blob/main/LICENSE).
 
 <br>Enjoy ;)<br> <a
     id="cy-effective-orcid-url"
