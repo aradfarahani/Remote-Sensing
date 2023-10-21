@@ -19,12 +19,20 @@ It is better to introduce folders immediately without wasting time, SO....<br>
 # No.07 Principal component analysis
 # No.08 Spectral Indices
 # No.09 Clustring
+
+k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. In this Image I tried k-means method with 4 clusters on my landsat8 Images.
+![1693521262844](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/081c4408-c943-40a4-9e92-0e62da0dbc6c)
+
 # No.10 Filters
 # No.11 Change Detection
+n statistical analysis, change detection or change point detection tries to identify times when the probability distribution of a stochastic process or time series changes. Today I decide to use to Change Vector Analysis (CVA) methods (Such as Change Direction and Change Magnitude) on my data with Python.
+![1693698661388](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b832b9f4-beda-49f8-8e00-0ed9eee5986a)
+
 # No.12 Gray-Level Co-Occurrence Matrix
+
 # No.13 Support Vector Machine
 In machine learning, support vector machines (e.g. SVM) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
-# Figure: 13-1
+
 ![1693865889169](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/f9efad77-e97c-4b7a-988f-a5d09fdd8cc1)
 
 # No.14 Time Series
@@ -54,5 +62,5 @@ Convolutional Neural Network (CNN) is a regularized type of feed-forward neural 
       https://orcid.org/0009-0008-3800-8688
     </a><br>
     
-    And if you have question, don't hesitate and ask ;)
+   <p> And if you have question, don't hesitate and ask ;)</p>
 
