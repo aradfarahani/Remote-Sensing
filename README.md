@@ -17,6 +17,9 @@ It is better to introduce folders immediately without wasting time, SO....<br>
 # No.05 HSV
 # No.06 Spectral Profile
 # No.07 Principal component analysis
+Principal component analysis, or PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed. in this image I use PCA on Landsat 8 satellite Images by using scikit-learn on Python.
+![1693350658617](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/84ba3d03-9cb7-46b0-b92d-8fcb9f2067c5)
+
 # No.08 Spectral Indices
 # No.09 Clustring
 
