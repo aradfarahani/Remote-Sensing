@@ -14,6 +14,18 @@ It is better to introduce folders immediately without wasting time, SO....<br>
 # No.04 Mosaic
 ![IMG_9911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5463cdc0-c6a4-4fe0-9592-7f145a355122)
 
+# No.05 HSV
+# No.06 Spectral Profile
+# No.07 Principal component analysis
+# No.08 Spectral Indices
+# No.09 Clustring
+# No.10 Filters
+# No.11 Change Detection
+# No.12 Gray-Level Co-Occurrence Matrix
+# No.13 Support Vector Machine
+# No.14 Time Series
+# No.15 Convolutional Neural Network
+
 <br>Enjoy ;)<br> <a
     id="cy-effective-orcid-url"
     class="underline"
