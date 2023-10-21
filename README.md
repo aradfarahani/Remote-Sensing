@@ -79,8 +79,11 @@ Time Series Analysis is a way of studying the characteristics of the response va
 
 # No.15 Convolutional Neural Network
 ![Screenshot (3305)](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3fbb9995-fd2a-40b9-83c6-f0e84cdd570d)
+![Roc_curve svg](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/9d19694f-4d11-4712-9a15-ec13edacf820)
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3d615706-75fd-4102-a50b-0668ad7b75a6)
 
-Convolutional Neural Network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. Hear I used my CNN model for lithology classification on my Sentinel-2 satellite image and my Ground truth data.
+
+Convolutional Neural Network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. Hear I used my CNN model for lithology classification on my Sentinel-2 satellite image and my Ground truth data. and for the validation part you can use ROC curve and Confusion Martix. A receiver operating characteristic curve, or ROC curve, is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied. The ROC curve is the plot of the true positive rate against the false positive rate, at various threshold settings. A Confusion matrix is an N x N matrix used for evaluating the performance of a classification model, where N is the number of target classes. The matrix compares the actual target values with those predicted by the machine learning model.
 
 
 
@@ -89,6 +92,7 @@ Convolutional Neural Network (CNN) is a regularized type of feed-forward neural 
 ![1697726597312](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3afd885e-9667-4020-a0d8-6e80e94cb468)
 
 ![1697726597448](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b1414a92-9dff-4919-ab80-0292dfaca49b)
+![cm](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/91215c38-e801-4e0f-ae9f-8ee20fc79b06)
 
 <br>Enjoy ;)<br> <a
     id="cy-effective-orcid-url"
