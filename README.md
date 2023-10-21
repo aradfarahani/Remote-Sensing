@@ -100,7 +100,7 @@ Convolutional Neural Network (CNN) is a regularized type of feed-forward neural 
 ![r2](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/16b7d92f-c767-41ca-b6d4-5541b58a6b13)
 ![r1](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/77ccb008-bc76-4333-94ef-16b30afca191)
 # License
-Remote-Sensing is licensed under the [MIT License](https://github.com/aradfarahani/Remote-Sensing/blob/main/LICENSE).
+Remote Sensing is licensed under the [MIT License](https://github.com/aradfarahani/Remote-Sensing/blob/main/LICENSE).
 
 <br>Enjoy ;)<br> <a
     id="cy-effective-orcid-url"
