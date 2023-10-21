@@ -21,6 +21,10 @@ Principal component analysis, or PCA, is a statistical procedure that allows you
 ![1693350658617](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/84ba3d03-9cb7-46b0-b92d-8fcb9f2067c5)
 
 # No.08 Spectral Indices
+Spectral indices are combinations of spectral reflectance from two or more wavelengths that indicate the relative abundance of features of interest. Vegetation indices are the most popular type, but other indices are available for burned areas, man-made (built-up) features, water, and geologic features.
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b7d15128-1666-4187-8bb3-27c60d3a9ddc)
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/4f02aa2d-1858-4e98-bd9a-c1ba0bc84d6c)
+
 # No.09 Clustring
 
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. In this Image I tried k-means method with 4 clusters on my landsat8 Images.
@@ -32,6 +36,12 @@ n statistical analysis, change detection or change point detection tries to iden
 ![1693698661388](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b832b9f4-beda-49f8-8e00-0ed9eee5986a)
 
 # No.12 Gray-Level Co-Occurrence Matrix
+![glcm](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/0a167d3f-890f-49e1-b6ed-b84e440b2f97)
+
+Gray-Level Co-Occurrence Matrix, or GLCM is a second-order statistical texture analysis method. It examines the spatial relationship among pixels and defines how frequently a combination of pixels are present in an image in a given direction Θ and distance d.
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/84a7e692-d791-4c43-a7f4-462e37a7b71b)
+
+
 
 # No.13 Support Vector Machine
 In machine learning, support vector machines (e.g. SVM) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis.
@@ -43,7 +53,10 @@ Time Series Analysis is a way of studying the characteristics of the response va
 ![1695579963833](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/ab1484d2-b6ce-4670-874b-380650ee99e1)
 
 # No.15 Convolutional Neural Network
+
 Convolutional Neural Network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. Hear I used my CNN model for lithology classification on my Sentinel-2 satellite image and my Ground truth data.
+![Screenshot (3305)](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/3fbb9995-fd2a-40b9-83c6-f0e84cdd570d)
+
 
 ![1697726601196](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/119d1620-b6a1-401c-ad62-ba6091ac32c9)
 
