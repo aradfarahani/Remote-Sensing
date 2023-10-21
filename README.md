@@ -27,10 +27,18 @@ An orthomosaic is a photogrammetrically orthorectified image product mosaicked f
 ![IMG_9911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5463cdc0-c6a4-4fe0-9592-7f145a355122)
 
 # No.05 HSV
+![hsvcone](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/997aa9f5-abb3-4da2-bf87-44c2b5934f43)
+
 Herpes simplex virus 1 and 2, also known by their taxonomic names Human alphaherpesvirus 1 and Human alphaherpesvirus 2, are two members of the human Herpesviridae family, a set of viruses that produce viral infections in the majority of humans. Both HSV-1 and HSV-2 are very common and contagious.
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/0e79dad7-ae67-4e57-89eb-bde565428674)
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/799c36a9-73ac-4561-b30b-ad76bd5df271)
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/921ea5f1-033b-4a41-8b5c-c265670974bc)
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/4508a89a-1aea-453f-a749-63a2c9f820b4)
 
 # No.06 Spectral Profile
+A spectral profile consists of geometry to define the pixel selection and an image with key metadata from which to sample. To create a chart, right-click the layer you want analyze in the Contents pane, point to Create Chart, and click Spectral Profile to open the Chart Properties pane.
+![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c57c2b56-5d5e-4710-b68a-4ff2df6706c1)
+
 # No.07 Principal component analysis
 Principal component analysis, or PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed. in this image I use PCA on Landsat 8 satellite Images by using scikit-learn on Python.
 ![1693350658617](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/84ba3d03-9cb7-46b0-b92d-8fcb9f2067c5)
