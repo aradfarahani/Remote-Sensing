@@ -104,5 +104,6 @@ Convolutional Neural Network (CNN) is a regularized type of feed-forward neural 
       https://orcid.org/0009-0008-3800-8688
     </a><br>
     
-   <p> And if you have question, don't hesitate and ask ;)</p>
+   <p> And if you have question, don't hesitate and ask ;)</p> <br>
+   <p>E.mail: mahdifarmahinifarahani@aol.com </p>
 
