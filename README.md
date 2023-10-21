@@ -93,6 +93,9 @@ Convolutional Neural Network (CNN) is a regularized type of feed-forward neural 
 
 ![1697726597448](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b1414a92-9dff-4919-ab80-0292dfaca49b)
 ![cm](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/91215c38-e801-4e0f-ae9f-8ee20fc79b06)
+![r2](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/16b7d92f-c767-41ca-b6d4-5541b58a6b13)
+![r1](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/77ccb008-bc76-4333-94ef-16b30afca191)
+
 
 <br>Enjoy ;)<br> <a
     id="cy-effective-orcid-url"
