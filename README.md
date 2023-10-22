@@ -15,7 +15,7 @@ Image enhancement is the process of adjusting digital images so that the results
 ![1693949810955](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/1fafe550-52a9-4cc3-94bf-ca77028794be)
 
 # No.03 Mask
-Here you can mask your images by considering shape file:<br>
+Here you can mask your images by considering shape file (.shp):<br>
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/df4fa12f-951b-4367-ad01-ff6b9c0d0056)
 
 # No.04 Mosaic
