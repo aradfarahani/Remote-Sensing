@@ -61,7 +61,7 @@ Filtering is used to enhance the appearance of an image. Spatial filters are des
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/c74f9fd4-c85e-4ea5-87ac-214285aeff60)
 
 ## No.11 Change Detection
-n statistical analysis, change detection or change point detection tries to identify times when the probability distribution of a stochastic process or time series changes. Today I decide to use to Change Vector Analysis (CVA) methods (Such as Change Direction and Change Magnitude) on my data with Python.<br>
+n statistical analysis, change detection or change point detection tries to identify times when the probability distribution of a stochastic process or time series changes. In this section I decide to use to Change Vector Analysis (CVA) methods (Such as Change Direction and Change Magnitude) on my data.<br>
 ![1693698661388](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/b832b9f4-beda-49f8-8e00-0ed9eee5986a)
 
 ## No.12 Gray-Level Co-Occurrence Matrix
