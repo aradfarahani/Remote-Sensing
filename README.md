@@ -4,7 +4,7 @@ Remote Sensing is the name of the remote sensing project that is developed with 
 Remote sensing is the acquisition of information about an object or phenomenon without making physical contact with the object, in contrast to in situ or on-site observation. The term is applied especially to acquiring information about Earth and other planets.<br>
 Due to my personal interest in applying modern technologies in daily work, I decided to create this repository for the remote sensing applications<br>
 In this Repository you will see several folders, and each folder is about specefic topic. <br>
-It is better to introduce folders immediately without wasting time, SO....<br>
+It is better to introduce folders immediately without wasting time, so let's get start it....<br>
 ## No.01 Import
 In this folder you only learn about how to import your satellite images and visulize it. there is nothing important about it and just a kickoff on remote sensing by Python :) here is some of the exampel about what you see and what you gonna do with your data<br>
 ![1692987905704](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5bf8c7bb-b126-4644-a60a-92792e02eb8b)
