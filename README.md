@@ -26,7 +26,7 @@ An orthomosaic is a photogrammetrically orthorectified image product mosaicked f
 ## No.05 HSV
 ![hsvcone](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/997aa9f5-abb3-4da2-bf87-44c2b5934f43)
 
-Herpes simplex virus 1 and 2, also known by their taxonomic names Human alphaherpesvirus 1 and Human alphaherpesvirus 2, are two members of the human Herpesviridae family, a set of viruses that produce viral infections in the majority of humans. Both HSV-1 and HSV-2 are very common and contagious.
+The HSV (which stands for Hue Saturation Value) scale provides a numerical readout of your image that corresponds to the color names contained therein
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/0e79dad7-ae67-4e57-89eb-bde565428674)
 
 ## No.06 Spectral Profile
