@@ -11,7 +11,7 @@ In this folder you only learn about how to import your satellite images and visu
 
 
 ## No.02 Image Enhancement
-Image enhancement is the process of adjusting digital images so that the results are more suitable for display or further image analysis. For example, you can remove noise, sharpen, or brighten an image, making it easier to identify key features. In this repository I've tried different methods of Image enhancement (e.g. Gamma, Logarithm, Sigmoid function and etc.) that is available in scikit-image module on Python with Landsat 8 Images. The image below by using Gamma method.
+Image enhancement is the process of adjusting digital images so that the results are more suitable for display or further image analysis. For example, you can remove noise, sharpen, or brighten an image, making it easier to identify key features. In this repository I've tried different methods of Image enhancement (e.g. Gamma, Logarithm, Sigmoid function and etc.) that is available in scikit-image module on Python with Landsat-8 Images. The image below by using Gamma method.
 ![1693949810955](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/1fafe550-52a9-4cc3-94bf-ca77028794be)
 
 ## No.03 Mask
