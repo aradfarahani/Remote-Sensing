@@ -19,7 +19,7 @@ Here you can mask your images by considering shape file (.shp):<br>
 ![download](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/df4fa12f-951b-4367-ad01-ff6b9c0d0056)
 
 ## No.04 Mosaic
-An orthomosaic is a photogrammetrically orthorectified image product mosaicked from an image collection, where the geometric distortion has been corrected and the imagery has been color balanced to produce a seamless mosaic dataset. here you can see the results
+An orthomosaic is a photogrammetrically orthorectified image product mosaicked from an image collection, where the geometric distortion has been corrected and the imagery has been color balanced to produce a seamless mosaic dataset.
 
 ![IMG_9911](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5463cdc0-c6a4-4fe0-9592-7f145a355122)
 
