@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/683561862.svg)](https://zenodo.org/doi/10.5281/zenodo.10027283) <br>
 # Remote Sensing
-"Remote Sensing" is the name of the remote sensing project that is developed with Python inspired by ENVI (software developed by L3Harris Geospatial)<br>
+"Remote Sensing" is the name of the remote sensing project that is developed with Python inspired by ENVI (software developed by L3Harris Geospatial) but a little bit more better<br>
 Remote sensing is the acquisition of information about an object or phenomenon without making physical contact with the object, in contrast to in situ or on-site observation. The term is applied especially to acquiring information about Earth and other planets...<br>
 Due to my personal interest in applying modern technologies in daily work, I decided to create this repository for the remote sensing applications<br>
 In this Repository you will see several folders, and each folder is about specefic topic. <br>
