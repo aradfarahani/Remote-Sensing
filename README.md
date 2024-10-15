@@ -106,7 +106,7 @@ Remote Sensing is licensed under the [MIT License](https://github.com/aradfaraha
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please send me an E.mail.
 
-# Acknowledgments!
+# Acknowledgments
 I would like to thank the open-source community for the libraries and tools used in this project. Also I like to thank Vcafe (Felestin St.) and Levana Cafe (ASP Towers) for the  coffees; The project would not have been completed without the coffees of these two cafes... 
 
 <br>Enjoy ;)<br> <a
