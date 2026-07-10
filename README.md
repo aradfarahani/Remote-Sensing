@@ -1,7 +1,7 @@
 # Remote Sensing  
 [![CodeFactor](https://www.codefactor.io/repository/github/aradfarahani/remote-sensing/badge)](https://www.codefactor.io/repository/github/aradfarahani/remote-sensing)  [![DOI](https://zenodo.org/badge/683561862.svg)](https://zenodo.org/doi/10.5281/zenodo.10027283)  
 
-"Remote Sensing" is a Python-based project inspired by ENVI (developed by L3Harris Geospatial) but designed to push the boundaries a bit further. Remote sensing involves gathering data about objects or phenomena without physical contact, typically applied to Earth and planetary observation. This repository is my personal exploration of modern remote sensing techniques using Python, fueled by a passion for integrating cutting-edge tech into everyday workflows.
+"Remote Sensing" is a Python-based project inspired by ENVI (developed by L3Harris Geospatial) but designed to push the boundaries a bit further. Remote sensing involves gathering data about objects or phenomena without physical contact, typically applied to Earth and planetary observation. This repository is my personal exploration of modern remote sensing techniques using Python, fueled by a passion for integrating cutting-edge tech into everyday workflows. 
 
 This project is organized into topical folders, each focusing on a specific aspect of remote sensing. Let’s dive into what you’ll find inside!
 
