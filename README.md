@@ -9,7 +9,7 @@ This project is organized into topical folders, each focusing on a specific aspe
 
 ## Folder Overview
 
-### 01. Import  
+### 01. Import 
 Kick off your remote sensing journey here. Learn how to import satellite imagery and visualize it using Python. This folder provides a simple starting point with examples like this:  
 ![Import Example](https://github.com/aradfarahani/Remote-Sensing/assets/90475349/5bf8c7bb-b126-4644-a60a-92792e02eb8b)
 
